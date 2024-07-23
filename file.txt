@@ -11,8 +11,5 @@ oopp
 bbmm
 xxcc
 goto
-<<<<<<< HEAD
 tom123456
-=======
 p.anh
->>>>>>> 18fdb36083419582d37981a3d195ab583204a63e
